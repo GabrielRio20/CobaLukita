@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama": "Test1",
+    "harga": "200.000",
+    "kota": "Yogyakarta"
+  },
+  {
+    "id": 2,
+    "nama": "Test2",
+    "harga": "400.000",
+    "kota": "Bandung"
+  },
+  {
+    "id": 3,
+    "nama": "Test3",
+    "harga": "350.000",
+    "kota": "Semarang"
+  },
+  {
+    "id": 4,
+    "nama": "Test4",
+    "harga": "500.000",
+    "kota": "Kalimantan"
+  }
+]

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CobaLukita</string>
+    <string name="nama">Claude Monet</string>
+    <string name="online">Online 1 jam yang lalu</string>
+    <string name="lokasi">Yogyakarta</string>
+    <string name="no_hp">+62 234 4673 9846</string>
+    <string name="email">claudemonet@gmail.com</string>
+</resources>
